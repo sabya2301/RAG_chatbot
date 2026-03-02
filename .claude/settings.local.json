@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(cd /Users/sabyasachidas/Desktop/\"My Folder\"/AI_bootcamp/capstone_project)",
+      "Bash(source venv/bin/activate)",
+      "Bash(python -m pytest evals/ --tb=short -q)"
+    ]
+  }
+}
